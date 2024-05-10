@@ -16,5 +16,4 @@ BSSR_v1-0_Beta.zip
 
     -BSSRReserved
      -BSSRLib.dll
-     -BSSR
-  
+
