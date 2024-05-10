@@ -2,18 +2,19 @@
 
 BSSR_v1-0_Beta.zip
 
-- BSSR_v1-0_Beta
-  -InstallCache
+ BSSR_v1-0_Beta
+   InstallCache
+   cacheLoader.dll
+  
+   BrawlBoxSimInstaller.exe
 
-  -BrawlBoxSimInstaller.exe
+  InstallerFiles
+   GameFiles
+    BrawlBoxSimulator.bat
+    BrawlBoxSaverReseter.bat
+    Instructions.txt
+    ImportantInfo.txt
 
-  -InstallerFiles
-   -GameFiles
-    -BrawlBoxSimulator.bat
-    -BrawlBoxSaverReseter.bat
-    -Instructions.txt
-    -ImportantInfo.txt
-
-    -BSSRReserved
-     -BSSRLib.dll
+   BSSRReserved
+     BSSRLib.dll
 
