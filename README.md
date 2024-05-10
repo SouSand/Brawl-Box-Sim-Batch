@@ -71,3 +71,6 @@ Dell Inspiron 5547 (15)
 
 Dell Inspiron 340 
 
+# How to use the box Simulator
+
+Well, at the package you, you will see some files like BrawlBoxSimulatorRunner.bat (Who is the game) and Some other stuff, but, run the BrawlBoxSimInstaller.exe who will install the game for you. 
