@@ -2,6 +2,10 @@
 
 -----Welcome to BSSR (Brawl Stars Simulator)-----
 
+# Issue:
+
+Make sure to always run the game as administator, I will fix it later on.
+
 # About the game:
 
 Unlock amazing rewards like Brawlers and resources on Brawl Boxes, in a command prompt?!
