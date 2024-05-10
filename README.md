@@ -1,4 +1,4 @@
-# Brawl-Box-Sim-Batch
+# Brawl-Box-Sim-Batch V1.0 (Beta)
 
 -----Welcome to BSSR (Brawl Stars Simulator)-----
 
@@ -100,6 +100,17 @@ Cache is at BBSRCache directory.
 
 # Special thanks:
 
+- Making batch script:
+
 ChatGPT
 
-Myself (SouSand)
+- Bug fixing:
+
+Myself 
+
+- Special Thanks:
+
+u/HALLOGAZZ
+
+u/Puzzled-Elevator-209
+
