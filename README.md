@@ -79,25 +79,6 @@ Well, at the package you, you will see some files like BrawlBoxSimulatorRunner.b
 
 The game may let some cache after use.
 
-# DO NOT DELETE
-
-- Save File = BrawlBoxProgress.log
-
-- Save file Reseter = BrawlBoxSimulatorSaveReset.bat (Opitional)
-
-
-# HOW TO MAKE OTHER SAVE FILES
-
-Open the SaveOtherAdder.bat, follow the instructions and separate the Original BrawlProgress.log file in the OriginalSaves directory.
-
-# Where are the directories?
-
-Saves are located at the same directory as the original .bat file.
-
-Original Save is at OriginalSaves directory.
-
-Cache is at BBSRCache directory.
-
 # Special thanks:
 
 - Making batch script:
