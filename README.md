@@ -2,6 +2,14 @@
 
 -----Welcome to BSSR (Brawl Stars Simulator)-----
 
+# Our groups:
+
+We got our own communities and groups now! 
+
+Reddit: https://www.reddit.com/r/BrawlStarsSimulator/
+
+Discord: https://discord.gg/NKmrkDhFJw
+
 # Issue:
 
 Make sure to always run the game as administator, I will fix it later on.
