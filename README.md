@@ -46,7 +46,7 @@ Resources:
 - Player Statics
 
 - Games/Battles:
- - In order to win resources to buy the boxes, to make them not free  anymore, but, get them by buying or getting victories on battles.    (Coming soon)
+ - In order to win resources to buy the boxes, to make them not free  anymore, but, get them by buying or getting victories on battles. (Coming soon)
 
  - Different Game Modes:
  Showdown (Solo & Duo)
@@ -75,7 +75,7 @@ Resources:
   
 # How to use the box Simulator
 
-Well, at the package you, you will see some files like BrawlBoxSimulatorRunner.bat (Who is the game) and Some other stuff, but, run the BrawlBoxSimInstaller.exe who will install the game for ayou. 
+Well, at the package you, you will see some files like BrawlBoxSimulatorRunner.bat (Who is the game) and Some other stuff, but, run the BrawlBoxSimInstaller.exe who will install the game for you. 
 
 The game may let some cache after use.
 
