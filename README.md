@@ -37,7 +37,7 @@ Resources:
 
 - Starr Points
 
-- Starr Drops (Rare, Super-rare, Epic, Mythic & Legendary)
+- Starr Drops (Mythic & Legendary)
 
 # Features:
 
