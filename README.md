@@ -1,4 +1,4 @@
-# Brawl-Box-Sim-Batch V1.0 (Beta)
+# Brawl-Box-Sim-Batch V1.1 (Beta)
 
 -----Welcome to BSSR (Brawl Stars Simulator)-----
 
